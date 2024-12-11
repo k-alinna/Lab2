@@ -235,9 +235,9 @@ public class Main {
 
    - **Output**:
 
-     ```Количество слов с заглавной буквы: 3
+     Количество слов с заглавной буквы: 3
 
-     ```
+     
 
 2. Тест на вывод слов с большой буквы:
 
@@ -254,17 +254,17 @@ public class Main {
 
    - **Output**:
 
-     ```Слова с заглавной буквы: Frg Sdwq Gfvcx
+     Слова с заглавной буквы: Frg Sdwq Gfvcx
 
-     ```
+     
 
 3. Тест на пометку палиндромов "\*":
 
    - **Input**:
 
-     1
-     1
-     fghhgf
+      ````1
+      ```1
+      ```fghhgf
 
      
 
@@ -278,14 +278,14 @@ public class Main {
 
    - **Input**:
 
-      1
-      1
-      fghhgf
+       ````1
+       ```1
+       ```fghhgf
 
 
    - **Output**:
 
-     fgh
+      ````fgh
 
      
 
@@ -293,15 +293,15 @@ public class Main {
 
    - **Input**:
 
-     1
-     1
-     sd fg hj
+      ````1
+      ````1
+      ````sd fg hj
 
      
 
    - **Output**:
 
-     sd-fg-hj
+      ````sd-fg-hj
 
      
 
@@ -309,19 +309,19 @@ public class Main {
 
    - **Input**:
 
-     2
-     2
-     tyu fgh
-     zxc vb
-     tyuio
-     asde
+      ````2
+      ````2
+      ````tyu fgh
+      ````zxc vb
+      ````tyuio
+      ````asde
 
      
 
    - **Output**:
 
-   hgf uyt bv cxz
-   oiuyt edsa
+    ````hgf uyt bv cxz
+    ````oiuyt edsa
 
    
 
@@ -329,17 +329,17 @@ public class Main {
 
    - **Input**:
 
-     2
-     2
-     rt
-     gh
-     sc bn
-     jkmnp
+      ````2
+      ````2
+      ````rt
+      ````gh
+      ````sc bn
+      ````jkmnp
 
      
 
    - **Output**:
 
-   tr hg
-   nb cs pnmkj
+    ````tr hg
+    ````nb cs pnmkj
    
