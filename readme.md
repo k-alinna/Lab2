@@ -224,12 +224,13 @@ public class Main {
 
    - **Input**:
 
-     ````2
-     ``` 2
-     ``` Tyu
-     ``` lkj
-     ``` Xdv
-     ``` Pnf
+     ``` `````
+        2
+        2
+      Tyu
+      lkj
+      Xdv
+      Pnf
 
      ````
 
@@ -243,12 +244,13 @@ public class Main {
 
    - **Input**:
 
-     ````2
-     ``` 2
-     ``` Frg
-     ``` lkn
-     ``` Sdwq
-     ``` Gfvcx
+     ```` ````
+     2
+     2
+     Frg
+     lkn
+     Sdwq
+     Gfvcx
 
      ````
 
@@ -262,15 +264,16 @@ public class Main {
 
    - **Input**:
 
-      ````1
-      ```1
-      ```fghhgf
+      ````  ````
+      1
+      1
+      fghhgf
 
      
 
    - **Output**:
 
-     fghhgf*
+      ````fghhgf*
 
      
 
@@ -278,9 +281,10 @@ public class Main {
 
    - **Input**:
 
-       ````1
-       ```1
-       ```fghhgf
+       ````  ````
+       1
+       1
+       fghhgf
 
 
    - **Output**:
@@ -293,9 +297,10 @@ public class Main {
 
    - **Input**:
 
-      ````1
-      ````1
-      ````sd fg hj
+      ````  ````
+      1
+      1
+      sd fg hj
 
      
 
@@ -309,19 +314,21 @@ public class Main {
 
    - **Input**:
 
-      ````2
-      ````2
-      ````tyu fgh
-      ````zxc vb
-      ````tyuio
-      ````asde
+      ````  ````
+      2
+      2
+      tyu fgh
+      zxc vb
+      tyuio
+      asde
 
      
 
    - **Output**:
 
-    ````hgf uyt bv cxz
-    ````oiuyt edsa
+    ````  ````
+    hgf uyt bv cxz
+    oiuyt edsa
 
    
 
@@ -329,17 +336,19 @@ public class Main {
 
    - **Input**:
 
-      ````2
-      ````2
-      ````rt
-      ````gh
-      ````sc bn
-      ````jkmnp
+      ````  ````
+      2
+      2
+      rt
+      gh
+      sc bn
+      jkmnp
 
      
 
    - **Output**:
 
-    ````tr hg
-    ````nb cs pnmkj
+    ````  ````
+    tr hg
+    nb cs pnmkj
    
