@@ -224,7 +224,7 @@ public class Main {
 
    - **Input**:
 
-     ``` `````
+     ``` 
         2
         2
       Tyu
@@ -232,19 +232,19 @@ public class Main {
       Xdv
       Pnf
 
-     ````
+     ```
 
    - **Output**:
-
+   ```
      Количество слов с заглавной буквы: 3
-
+   ```
      
 
 2. Тест на вывод слов с большой буквы:
 
    - **Input**:
 
-     ```` ````
+     ```
      2
      2
      Frg
@@ -252,44 +252,48 @@ public class Main {
      Sdwq
      Gfvcx
 
-     ````
+     ```
 
    - **Output**:
-
+   ```
      Слова с заглавной буквы: Frg Sdwq Gfvcx
 
-     
+   ```
 
 3. Тест на пометку палиндромов "\*":
 
    - **Input**:
 
-      ````  ````
+      ```
       1
       1
       fghhgf
-
+      
+      ```
      
 
    - **Output**:
 
-      ````fghhgf*
-
+      ```
+      fghhgf*
+      ```
      
 
 4. Тест на удаление повторящихся символов:
 
    - **Input**:
 
-       ````  ````
+     ```
        1
        1
        fghhgf
-
+     ```
 
    - **Output**:
 
-      ````fgh
+      ```
+      fgh
+      ```
 
      
 
@@ -297,16 +301,19 @@ public class Main {
 
    - **Input**:
 
-      ````  ````
+      ```
       1
       1
       sd fg hj
+      ```
 
      
 
    - **Output**:
 
-      ````sd-fg-hj
+      ```
+      sd-fg-hj
+      ```
 
      
 
@@ -314,41 +321,42 @@ public class Main {
 
    - **Input**:
 
-      ````  ````
+      ```
       2
       2
       tyu fgh
       zxc vb
       tyuio
       asde
+      ```
 
      
 
    - **Output**:
 
-    ````  ````
+    ```
     hgf uyt bv cxz
     oiuyt edsa
-
+    ```
    
 
 7. Тест на проверку сортировки столбцов по длине строк по их длине (с учетом одинаковой длины, но с разным количеством слов):
 
    - **Input**:
 
-      ````  ````
+      ```
       2
       2
       rt
       gh
       sc bn
       jkmnp
-
+      ```
      
 
    - **Output**:
 
-    ````  ````
+    ```
     tr hg
     nb cs pnmkj
-   
+   ```
