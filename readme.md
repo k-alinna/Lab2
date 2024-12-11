@@ -262,85 +262,84 @@ public class Main {
 
    - **Input**:
 
-     ````1
-     ``` 1
-     ``` fghhgf
+     1
+     1
+     fghhgf
 
-     ````
+     
 
    - **Output**:
 
-     ```fghhgf*
+     fghhgf*
 
-     ```
+     
 
 4. Тест на удаление повторящихся символов:
 
    - **Input**:
 
-     ````1
-     ``` 1
-     ``` fghhgf
+      1
+      1
+      fghhgf
 
-     ````
 
    - **Output**:
 
-     ```fgh
+     fgh
 
-     ```
+     
 
 5. Тест на замену пробелов "-":
 
    - **Input**:
 
-     ````1
-     ``` 1
-     ``` sd fg hj
+     1
+     1
+     sd fg hj
 
-     ````
+     
 
    - **Output**:
 
-     ```sd-fg-hj
+     sd-fg-hj
 
-     ```
+     
 
 6. Тест на проверку сортировки столбцов по длине строк по их длине:
 
    - **Input**:
 
-     ````2
-     ``` 2
-     ``` tyu fgh
-     ``` zxc vb
-     ``` tyuio
-     ``` asde
+     2
+     2
+     tyu fgh
+     zxc vb
+     tyuio
+     asde
 
-     ````
+     
 
    - **Output**:
 
-   ````hgf uyt bv cxz
-   ``` oiuyt edsa
+   hgf uyt bv cxz
+   oiuyt edsa
 
-   ````
+   
 
 7. Тест на проверку сортировки столбцов по длине строк по их длине (с учетом одинаковой длины, но с разным количеством слов):
 
    - **Input**:
 
-     ````2
-     ``` 2
-     ``` rt
-     ``` gh
-     ``` sc bn
-     ``` jkmnp
+     2
+     2
+     rt
+     gh
+     sc bn
+     jkmnp
 
-     ````
+     
 
    - **Output**:
 
-   ````tr hg
-   ``` nb cs pnmkj
-   ````
+   tr hg
+   nb cs pnmkj
+   
